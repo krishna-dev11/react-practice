@@ -1,0 +1,23 @@
+.blue-section
+{
+    width: 92%;
+    background-color: aqua;
+    height: 5rem;
+    border-radius:.5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: .5rem;
+}
+
+.button-descriptions-section
+{
+    display: flex;
+    gap: 1rem;
+}
+.title-printon-ui
+{
+    color: red;
+    font-size: 1.5rem;
+    font-weight: 600;
+}

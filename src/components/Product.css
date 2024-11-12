@@ -1,0 +1,13 @@
+.yellow-box-products
+{
+    height: 35rem;
+    width: 25rem;
+    border-radius: 1rem;
+    background-color: yellow;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;align-items: center;
+    /* justify-content: center; */
+    padding: 1.5rem .4rem ;
+
+}

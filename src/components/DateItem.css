@@ -1,0 +1,12 @@
+.black-section
+{
+    height: 100%;
+    width: 25%;
+    background-color: black;
+    border-radius: .5rem;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

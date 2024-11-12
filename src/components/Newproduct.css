@@ -1,0 +1,24 @@
+.new-product-section
+{
+    background-color: rgb(125, 42, 202);
+    width: 25rem;
+    border-radius: 1rem;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    padding: 4rem;
+    gap: .5rem;
+}
+
+.add-product-button
+{
+    appearance: none;
+    border: none;
+    outline: none;
+    padding: 1rem;
+    border-radius:.5rem ;
+    color: white;
+    background-color:rgb(55, 5, 103);
+
+}
